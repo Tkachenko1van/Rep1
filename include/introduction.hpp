@@ -1,7 +1,11 @@
 /* Introduction class.
  * @file
  * @date 2021-09-04
+<<<<<<< HEAD
  * @author 1
+=======
+ * @author 2
+>>>>>>> new-branch
  */
 
 #ifndef __INTRODUCTION_HPP__
