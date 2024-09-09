@@ -1,7 +1,7 @@
 /* Introduction class.
  * @file
  * @date 2021-09-04
- * @author Tkachenko1van Tkachenko1van
+ * @author 1
  */
 
 #ifndef __INTRODUCTION_HPP__
